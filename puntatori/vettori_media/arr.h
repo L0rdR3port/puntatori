@@ -1,0 +1,1 @@
+double media(double *a, size_t n);
